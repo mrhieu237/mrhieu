@@ -1,0 +1,5 @@
+Changelog 
+* Fix 142 :
++ Thêm chức năng Đăng bài fanpage : đăng ảnh và video lên fanpage mình quản trị
++ Thêm chức năng cập nhật fanpage thủ công : lấy nội dung và video từ ID video để đăng lên fanpage mình quản trị
++ Thêm chức năng Cập nhật fanpage chủ động : spy page nguồn có video mới thì tự lấy về đăng lên page mình quản trị
